@@ -1,6 +1,6 @@
 #  By vicvenpet (nano. && ovra.)
 #  This script allows user verify up to (without proxys) 5 accounts.
-#  https://github.com/vicvenpet/amino/scripts/verify/main.py
+#  https://github.com/vicvenpet/amino/blob/main/scripts/verify/main.py
 
 from k_amino import Client
 import getpass
