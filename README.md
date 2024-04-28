@@ -1,5 +1,5 @@
 ## amino
 "amino" is my repository of different scripts for Amino Apps, it uses different libraries: k_amino, amino.fix.fix, pymino...
 
-## Contact
-You can contact me at the hello@vicvenpet.xyz
+## contact
+you can contact me at the hello@vicvenpet.xyz
