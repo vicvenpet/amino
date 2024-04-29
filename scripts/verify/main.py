@@ -1,5 +1,5 @@
 #  By vicvenpet (nano. && ovra.)
-#  This script allows user verify up to (without proxys) 5 accounts.
+#  This script allows user verify aminoapps accounts.
 #  https://github.com/vicvenpet/amino/blob/main/scripts/verify/main.py
 
 from k_amino import Client
